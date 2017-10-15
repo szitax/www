@@ -1,0 +1,149 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#header2-5 H1 {
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+}
+#header2-5 SPAN {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 60px;
+}
+#dropdown-menu-2btn-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-e .navbar-brand a {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 10px;
+}
+#dropdown-menu-2btn-e .nav .link,
+#dropdown-menu-2btn-e .dropdown-item {
+  font-size: 1em;
+  color: #3d8eb9;
+  font-family: 'Oxygen', sans-serif;
+}
+#dropdown-menu-2btn-e .navbar,
+#dropdown-menu-2btn-e .dropdown-menu {
+  background: #23384e;
+}
+#dropdown-menu-2btn-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-e .dropdown-menu a:hover,
+#dropdown-menu-2btn-e .dropdown-menu a:focus {
+  background: #1d2e40;
+}
+#dropdown-menu-2btn-e .navbar-toggler {
+  color: #3d8eb9;
+}
+#content5-f .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #23384e;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-f .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-f .mbr-article {
+  color: #fff;
+}
+#content5-f .mbr-article P {
+  color: #7c706b;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-h .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-h .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-h .mbr-article {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
+#content5-h .mbr-article P {
+  font-size: 20px;
+  font-family: 'Oxygen', sans-serif;
+  text-align: center;
+}
+#content5-i .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-i .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-i .mbr-article {
+  color: #fff;
+}
+#content5-i .mbr-article P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+}
+#content5-j .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#content5-k .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
+#content5-k .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-k .mbr-article {
+  color: #fff;
+}
+#content5-k .mbr-article P {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+}
+#form1-l .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 36px;
+}
